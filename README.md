@@ -25,7 +25,7 @@ Estudei inicialmente o mundo de Javascript no Instituto Federal do Piauí, no cu
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaquino&layout=compact)](https://github.com/flavioaquino/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaquino&layout=compact&theme=radical)](https://github.com/flavioaquino/github-readme-stats)
 
 ## Minhas Estastísticas:
 
