@@ -25,14 +25,13 @@ Estudei inicialmente o mundo de Javascript no Instituto Federal do Piauí, no cu
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bethania-Freitas&layout=compact)](https://github.com/Bethania-Freitas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaquino&layout=compact)](https://github.com/flavioaquino/github-readme-stats)
 
 ## Minhas Estastísticas:
 
-![Bethânia GitHub stats](https://github-readme-stats.vercel.app/api?username=Bethania-Freitas&show_icons=true&theme=radical)
+![Flavio GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioaquino&show_icons=true&theme=radical)
 
 ## Outras redes sociais:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bethaniafreitas/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/952973848389746740/952973848389746742)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bethaniafreitas83/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flaavioaquino/)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flaavio_aquino/)
