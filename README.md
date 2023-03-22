@@ -1,4 +1,4 @@
-# Olá!  Me chamo Flávio Basílio de Aquino Ferreira 🙋‍♀️
+# Olá!  Me chamo Flávio 🙋‍♀️
 
 Desde muito novo sempre tive muito interesse na área de Tecnologia, mais especificamente na parte de hardware.
 Estudei inicialmente o mundo de Javascript no Instituto Federal do Piauí, no curso de Análise e Desenvolvimento de Sistemas, que utilizo de seus ensinamentos até hoje.
