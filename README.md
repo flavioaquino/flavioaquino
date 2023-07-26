@@ -10,7 +10,7 @@ Estudei inicialmente o mundo de Javascript no Instituto Federal do Piauí, no cu
 
 
 
-## Linguagens que estou estudando:
+## Ferramentas que estou estudando/utilizando:
 
 <div style='display: inline block'><br>
     <img align='center' alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
